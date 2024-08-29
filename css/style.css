@@ -1,0 +1,46 @@
+.container{
+    
+    padding: 10px;
+   
+}
+.container-fluid{
+   
+    padding: 10px;
+}
+.col-5{
+    background-color: aquamarine;
+}
+.col-7{
+    background-color: rgb(6, 178, 178);
+}
+.col-8{
+    background-color: rgb(215, 215, 97);
+}
+.col-4{
+    background-color: bisque;
+}
+td:hover{
+    background-color:green;
+    color: aliceblue;
+}
+th:hover{
+    background-color: brown;
+    color: white;
+}
+.btn-group{
+    width: 500px;
+    margin:100px;
+
+}
+form{
+    background-color:rgb(41, 140, 142);
+    padding: 5px;
+    color: aliceblue;
+}
+input:hover{
+    background-color: beige;
+
+}
+button{
+    color: aliceblue;
+}
